@@ -1,0 +1,42 @@
+782826276176486400 | 24 | 29 | 2016-10-03 06:15:03 | How Neil Hunt, Netflix chief product officer, is making the company’s global push go  
+782822535633264640 | 32 | 40 | 2016-10-03 06:00:11 | Why the best leaders want their superstar employees to leave  
+782814971122094080 | 45 | 44 | 2016-10-03 05:30:07 | Saudi Arabia pays $1 billion to help laid-off migrants from India and elsewhere. 
+782814969918283777 | 34 | 16 | 2016-10-03 05:30:07 | Colombia's peace deal with FARC rejected 
+782814968035078144 | 49 | 100 | 2016-10-03 05:30:07 | How to have the body language of a leader: For starters, don’t tilt your head  
+782811439371259904 | 70 | 85 | 2016-10-03 05:16:05 | Women board members supply skills key to corporate governance, study says  
+782810311657152513 | 13 | 20 | 2016-10-03 05:11:36 | TE Connectivity CEO Tom Lynch to step down; president will be successor  
+782807427121053696 | 16 | 29 | 2016-10-03 05:00:09 | It’s a new space age for satellite builders  
+782803383778410496 | 34 | 47 | 2016-10-03 04:44:05 | American Airlines CIO describes IT’s crucial role after a weather disruption  
+782799872789536768 | 35 | 40 | 2016-10-03 04:30:08 | Take an early look at the front page of The Wall Street Journal  
+782796076696887296 | 44 | 94 | 2016-10-03 04:15:02 | The art of the office conversation: A few simple rules to do better at workplace chats  
+782792489317101568 | 15 | 24 | 2016-10-03 04:00:47 | How an Asian family empire may help Rolling Stone  
+782788777450274816 | 49 | 121 | 2016-10-03 03:46:02 | For the first time since 2008, the U.S. can finally claim golf superirority over Europe  
+782784767351816192 | 34 | 40 | 2016-10-03 03:30:06 | Gun-show customers’ license plates come under scrutiny  
+782781589822603264 | 10 | 0 | 2016-10-03 03:17:29 | RT @WSJspeakeasy: #FearTWD season 2 finale recap: 'Wrath' and 'North'  
+782780978653724672 | 35 | 61 | 2016-10-03 03:15:03 | A look at Tim Kaine’s importance to Hillary Clinton’s campaign  
+782779732039458816 | 96 | 70 | 2016-10-03 03:10:06 | Brexit trigger news sends British pound lower  
+782778459873480708 | 24 | 68 | 2016-10-03 03:05:02 | U.S. shows it is golf’s top dog—uh-oh!  
+782774705421967360 | 40 | 63 | 2016-10-03 02:50:07 | Donald Trump’s rough week vexes GOP  
+782770936152002560 | 32 | 45 | 2016-10-03 02:35:09 | Inside Mike Pence’s debate strategy  
+end
+782826276176486400 | 27 | 32 | 2016-10-03 06:15:03 | How Neil Hunt, Netflix chief product officer, is making the company’s global push go  
+782822535633264640 | 33 | 42 | 2016-10-03 06:00:11 | Why the best leaders want their superstar employees to leave  
+782814971122094080 | 45 | 45 | 2016-10-03 05:30:07 | Saudi Arabia pays $1 billion to help laid-off migrants from India and elsewhere. 
+782814969918283777 | 34 | 16 | 2016-10-03 05:30:07 | Colombia's peace deal with FARC rejected 
+782814968035078144 | 50 | 100 | 2016-10-03 05:30:07 | How to have the body language of a leader: For starters, don’t tilt your head  
+782811439371259904 | 70 | 86 | 2016-10-03 05:16:05 | Women board members supply skills key to corporate governance, study says  
+782810311657152513 | 13 | 20 | 2016-10-03 05:11:36 | TE Connectivity CEO Tom Lynch to step down; president will be successor  
+782807427121053696 | 16 | 29 | 2016-10-03 05:00:09 | It’s a new space age for satellite builders  
+782803383778410496 | 35 | 47 | 2016-10-03 04:44:05 | American Airlines CIO describes IT’s crucial role after a weather disruption  
+782799872789536768 | 35 | 40 | 2016-10-03 04:30:08 | Take an early look at the front page of The Wall Street Journal  
+782796076696887296 | 45 | 94 | 2016-10-03 04:15:02 | The art of the office conversation: A few simple rules to do better at workplace chats  
+782792489317101568 | 15 | 25 | 2016-10-03 04:00:47 | How an Asian family empire may help Rolling Stone  
+782788777450274816 | 49 | 121 | 2016-10-03 03:46:02 | For the first time since 2008, the U.S. can finally claim golf superirority over Europe  
+782784767351816192 | 34 | 40 | 2016-10-03 03:30:06 | Gun-show customers’ license plates come under scrutiny  
+782781589822603264 | 10 | 0 | 2016-10-03 03:17:29 | RT @WSJspeakeasy: #FearTWD season 2 finale recap: 'Wrath' and 'North'  
+782780978653724672 | 35 | 61 | 2016-10-03 03:15:03 | A look at Tim Kaine’s importance to Hillary Clinton’s campaign  
+782779732039458816 | 97 | 69 | 2016-10-03 03:10:06 | Brexit trigger news sends British pound lower  
+782778459873480708 | 24 | 68 | 2016-10-03 03:05:02 | U.S. shows it is golf’s top dog—uh-oh!  
+782774705421967360 | 40 | 63 | 2016-10-03 02:50:07 | Donald Trump’s rough week vexes GOP  
+782770936152002560 | 32 | 45 | 2016-10-03 02:35:09 | Inside Mike Pence’s debate strategy  
+end
