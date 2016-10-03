@@ -1,3 +1,8 @@
+# author sayem.siam
+# date: October 3, 2016
+# This class is responsible to find the best
+# tweet based on the retweet and favorite counts
+
 from Tweet import Tweet
 
 class BestTweet:
@@ -11,7 +16,7 @@ class BestTweet:
 
         return a_score
 
-    # sorts the each cluster baseo on retweets and likes
+    # sorts the each cluster based on retweets and likes
     def get_best_tweet(self):
         best_tweets = []
         print(self.clusters)

@@ -1,3 +1,13 @@
+
+# author sayem.siam
+# date: October 3, 2016
+# This class is responsible to create features from
+# each tweet object
+# I basically used Bag of Words (BoW-tf-idf) technique to create a feature
+# I used only noun and verbs from the sentence and also gave up the stock words
+# If two words has a matching score greater than .6 (thresh = .6), I inserted only
+# one of the two
+
 import nltk.corpus
 import nltk.tokenize.punkt
 import nltk.stem.snowball
@@ -6,7 +16,7 @@ import string
 from Tweet import Tweet
 
 class TextFeatures:
-    thresh = .7
+    thresh = .6
 
     stopwords = nltk.corpus.stopwords.words('english')
     stopwords.extend(string.punctuation)
@@ -16,6 +26,8 @@ class TextFeatures:
     def __init__(self, all_tweets):
         self.__all_tweets = all_tweets
 
+    # this method create features from all the tweet texts and return as
+    # a 2 dimensional array
     def get_features(self):
         self.create_dictionary()
         all_status_features = []
@@ -29,6 +41,31 @@ class TextFeatures:
             all_status_features.append(single_status_features)
         return all_status_features
 
+    # I initially used this method; but currently not using
+    # this method doesn't care about similarity score between two words
+    def create_dictionary_unique_words(self):
+
+        self.all_words_dict = {}
+        self.feature_dict = {}
+        self.all_filtered_words = []
+        index = 0
+        w_count = 0
+        for t in self.__all_tweets:
+            words = self.get_filtered_words(t.text)
+            self.all_filtered_words.append(words)
+            w_count += len(words)
+            for w in words:
+                # check if it's a completely new words, doesn't match
+                # with previous ones
+                if w not in self.feature_dict:
+                        # enter new words in the feature dictionary
+                        self.feature_dict[w] = index
+                        index +=1
+                        self.all_words_dict[w] = w
+        print(self.feature_dict.keys())
+
+    # this method create a dictionary for feature space and also manage mapping
+    # between two similar words
     def create_dictionary(self):
 
         self.all_words_dict = {}
@@ -65,7 +102,7 @@ class TextFeatures:
         # print(self.all_words_dict.keys())
 
 
-
+    # this method returns the pars of speech of a word
     def get_wordnet_pos(self, pos_tag):
         if pos_tag[1].startswith('J'):
             return (pos_tag[0], wordnet.ADJ)
@@ -78,14 +115,19 @@ class TextFeatures:
         else:
             return (pos_tag[0], wordnet.NOUN)
 
+    # filter the words in a sentence
+    # it discard the stock words
+    # it only returns the words which are either noun or verb
     def get_filtered_words(self,a):
         pos_a = map(self.get_wordnet_pos, nltk.pos_tag(nltk.tokenize.word_tokenize(a)))
         lemmae_a = []
         for token, pos in pos_a:
-            if ((pos == wordnet.NOUN or pos == wordnet.ADJ)and token.lower().strip(string.punctuation) not in self.stopwords):
+            # did not used it
+            if ((pos == wordnet.NOUN or pos == wordnet.VERB)and token.lower().strip(string.punctuation) not in self.stopwords):
                 lemmae_a.append(self.lemmatizer.lemmatize(token.lower().strip(string.punctuation), pos))
         return lemmae_a
 
+    # returns the similarity score between two words
     def get_similarity(self,a,b):
         s1 = wordnet.synsets(a)
         s2 = wordnet.synsets(b)

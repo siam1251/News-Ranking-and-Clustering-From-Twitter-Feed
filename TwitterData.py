@@ -1,3 +1,8 @@
+# author sayem.siam
+# date: October 3, 2016
+# This class is responsible to update data and notify the subsciber that
+# a update data is avaiable
+#
 
 import NewsPapers
 
@@ -24,15 +29,15 @@ class TwitterData:
     def get_all_tweets(self):
         return self.news_papers.get_all_tweets()
 
+    # register a new subscriber
     def register_observer(self,observer):
         self.__observerlist.append(observer)
     #
-    #
+    # update the data
+    # then call method notify to all the subscriber
     def update_tweets(self, since, until, update_count):
-        self.since = since
-        self.until = until
 
-        self.news_papers.update_all_tweets(self.n_tweets, update_count)
+        self.news_papers.update_all_tweets(self.n_tweets, update_count, since, until)
         self.nofify_all_users()
     def get_state(self):
         pass

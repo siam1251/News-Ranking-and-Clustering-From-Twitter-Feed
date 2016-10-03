@@ -5,18 +5,22 @@ import os.path
 import datetime
 import sys
 import time
+import re
 
 if __name__ == '__main__':
     sav_location = 'data'
     reload(sys)
     sys.setdefaultencoding('utf8')
+    filelist = [f for f in os.listdir(sav_location) if f.endswith(".txt")]
+    for f in filelist:
+        os.remove(sav_location+'/'+f)
 
     papers = ['nytimes', 'thesunnewspaper', 'ap', 'thetimes', 'cnn', 'bbcnews',\
-              'bbcnews',  'cnet', 'msnuk', 'telegraph', 'usatoday', 'wsj', 'washingtonpost', 'newscomauhq'\
+              'bbcnews',  'cnet', 'msnuk', 'telegraph', 'usatoday', 'wsj', 'washingtonpost',\
               'skynews', 'sfgate', 'ajenglish', 'independent', 'guardian', 'latimes', 'reutersagency', \
-              'abc', 'bloombergnews', 'bw', 'time'
+              'abc', 'bw', 'time'
               ]
-    # papers = ['nytimes']
+    #papers = ['nytimes']
     news_papers = NewsPapers()
     for i in papers:
         print(i)
@@ -33,21 +37,24 @@ if __name__ == '__main__':
     update_count = 0
     #
     update_interval = 10*60 # 10 minutes
+    twitter_data.store_limit = 6 # 6*10 = 60 minutes
     while(True):
         update_count+= 1
 
-        now = datetime.datetime.now()
+        now = datetime.datetime.utcnow()
         f_name = '%s/since.txt'%sav_location
         # check if we know the time until we fetched
         if os.path.isfile(f_name):
             f = open(f_name)
-            since_time = f.readlines().strip()
+            since = f.readlines()[0].rstrip('\n')
+            since = datetime.datetime.strptime(since, "%Y-%m-%d %H:%M:%S.%f")
             f.close()
         else:
             # else we fetch from last 10 minutes
-            since_time = now - datetime.timedelta(minutes=10)
-            since = since_time.isoformat()
-        until = now.isoformat()
+            since = now - datetime.timedelta(minutes=60)
+
+        until = now
+
         #updating with recent tweets
         twitter_data.update_tweets(since, until, update_count)
         tweets = twitter_data.get_all_tweets()

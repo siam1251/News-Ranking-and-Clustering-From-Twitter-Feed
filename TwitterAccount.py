@@ -1,11 +1,17 @@
+# author sayem.siam
+# date: October 3, 2016
+# This class is responsible to keep the twitter user credentials
+# and return the user specific api
+
+
 import tweepy
 import Tweet
 class TwitterAccount:
 
-    __consumer_key = "sp27s8qtfeY835V31RIIUI4vp"
-    __consumer_secret = "2aL695hSBEtSZ28jSmQpgBrYCY1354iVY4u7ieCfkRygxtV6Uw"
-    __access_key = "163882382-YSNSn0LVaWNo7NvUcSsS1BpTQeyWAbqUpBvsK7tZ"
-    __access_secret = "tLgP44Ae4PtvfU1lb9FsKPUvRJMdJQ8af7NoRRLOFXho8"
+    __consumer_key = "C0XgZpQR09rKElSPLPJCdXyaN"
+    __consumer_secret = "vLnXuoxRboWai0ouYoLrUxQpBmkHrNhwSvSNsaFJjEgO4NKnQn"
+    __access_key = "163882382-QyqXLMzulnfklXEKPBZtoy4On0a2SZaYXK645GLX"
+    __access_secret = "tqkVjAAYwqXnDrLXNJtNNs03OUo9dbF45oSdVVyDMMZjy"
     __api = ''
     __save_location = ''
     __tweet_count = 10

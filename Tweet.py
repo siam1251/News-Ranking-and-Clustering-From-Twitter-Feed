@@ -1,3 +1,7 @@
+# author sayem.siam
+# date: October 3, 2016
+# This class is keep the data of twitter
+
 import re
 
 
@@ -14,6 +18,7 @@ class Tweet:
         text = re.sub(exp, '', text)
         self.text = text
 
+    # returns the specific url of the tweet
     def get_url(self):
         s = 'https://twitter.com/statuses/'+'status/'+self.id_str
         return s

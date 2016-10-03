@@ -1,2 +1,2 @@
-score=4913 |   BREAKING: Spokeswoman says Kim Kardashian held up at gunpoint at Paris hotel room by men dressed as police. 
- | tweet_url=https://twitter.com/statuses/status/782788962440060929
+score=1402 |   BREAKING: New York attorney general orders Trump's foundation to stop fundraising in state, says charity isn't properly registered. 
+ | tweet_url=https://twitter.com/statuses/status/782996869723131905

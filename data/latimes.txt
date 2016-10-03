@@ -1,42 +1,6 @@
-782827566289870848 | 10 | 12 | 2016-10-03 06:20:10 | The L.A. Phil's nonstop new music marathon, 'Noon to Midnight'  
-782820004337184768 | 30 | 42 | 2016-10-03 05:50:07 | Tax troubles threaten Trump as election day nears, and so does his own approach to campaigning…  
-782812461049245696 | 44 | 40 | 2016-10-03 05:20:09 | Hate crimes in L.A. County jumped in 2015, report says  
-782804912128294913 | 73 | 124 | 2016-10-03 04:50:09 | Watch Alec Baldwin as Donald Trump on Saturday Night Live  
-782804026140286976 | 31 | 0 | 2016-10-03 04:46:38 | RT @MattHjourno: Confirmed: the man shot earlier by LAPD near 45th &amp; Ascot died in the hospital. A handgun was recovered at scene. Updated… 
-782799890078375941 | 17 | 52 | 2016-10-03 04:30:12 | What makes a sex tape a sex tape? Here are a few things Donald Trump should know  
-782794836021743616 | 68 | 61 | 2016-10-03 04:10:07 | Police embrace 'de-escalation' to reduce shootings, but some officers remain skeptical  
-782789804085932036 | 52 | 67 | 2016-10-03 03:50:07 | Feeling earthquake anxiety? Here's what you can do to be prepared  
-782789299620155392 | 24 | 42 | 2016-10-03 03:48:07 | Kanye West stops NYC concert due to "family emergency"  
-782784795545862145 | 32 | 30 | 2016-10-03 03:30:13 | After African American man is killed by police, Pasadena grapples with race, history and progress…  
-782779727589281793 | 14 | 12 | 2016-10-03 03:10:05 | Yosemite official stepping down amid harassment allegations  
-782774697897369600 | 12 | 16 | 2016-10-03 02:50:05 | Harvard-educated attorney pleads guilty in bizarre Vallejo kidnapping  
-782769689520922624 | 54 | 83 | 2016-10-03 02:30:11 | L.A. targets full-time community college students for free tuition  
-782764636131196928 | 40 | 42 | 2016-10-03 02:10:06 | Neville Marriner, L.A. Chamber Orchestra music director and 'Amadeus' maestro, dies at 92  
-782759609115217920 | 35 | 49 | 2016-10-03 01:50:08 | This delivery pizza is made by robots  
-782754577468776448 | 125 | 260 | 2016-10-03 01:30:08 | Hillary Clinton lands a big Ohio endorsement: LeBron James  
-782749531532304384 | 291 | 540 | 2016-10-03 01:10:05 | Thank you, Vin Scully.  
-782744514846986240 | 32 | 38 | 2016-10-03 00:50:09 | Trump's response to tax return report: It shows I know tax laws  
-782739502452318208 | 26 | 42 | 2016-10-03 00:30:14 | Derek Carr's four TD passes help Raiders hand Ravens their first loss  
-782734438702735365 | 15 | 20 | 2016-10-03 00:10:07 | Tesla deliveries up 70% but may fall short of 2016 forecasts  
-end
-782827566289870848 | 11 | 14 | 2016-10-03 06:20:10 | The L.A. Phil's nonstop new music marathon, 'Noon to Midnight'  
-782820004337184768 | 31 | 43 | 2016-10-03 05:50:07 | Tax troubles threaten Trump as election day nears, and so does his own approach to campaigning…  
-782812461049245696 | 45 | 40 | 2016-10-03 05:20:09 | Hate crimes in L.A. County jumped in 2015, report says  
-782804912128294913 | 75 | 128 | 2016-10-03 04:50:09 | Watch Alec Baldwin as Donald Trump on Saturday Night Live  
-782804026140286976 | 32 | 0 | 2016-10-03 04:46:38 | RT @MattHjourno: Confirmed: the man shot earlier by LAPD near 45th &amp; Ascot died in the hospital. A handgun was recovered at scene. Updated… 
-782799890078375941 | 17 | 53 | 2016-10-03 04:30:12 | What makes a sex tape a sex tape? Here are a few things Donald Trump should know  
-782794836021743616 | 68 | 61 | 2016-10-03 04:10:07 | Police embrace 'de-escalation' to reduce shootings, but some officers remain skeptical  
-782789804085932036 | 52 | 67 | 2016-10-03 03:50:07 | Feeling earthquake anxiety? Here's what you can do to be prepared  
-782789299620155392 | 24 | 42 | 2016-10-03 03:48:07 | Kanye West stops NYC concert due to "family emergency"  
-782784795545862145 | 32 | 30 | 2016-10-03 03:30:13 | After African American man is killed by police, Pasadena grapples with race, history and progress…  
-782779727589281793 | 14 | 12 | 2016-10-03 03:10:05 | Yosemite official stepping down amid harassment allegations  
-782774697897369600 | 12 | 16 | 2016-10-03 02:50:05 | Harvard-educated attorney pleads guilty in bizarre Vallejo kidnapping  
-782769689520922624 | 54 | 83 | 2016-10-03 02:30:11 | L.A. targets full-time community college students for free tuition  
-782764636131196928 | 40 | 42 | 2016-10-03 02:10:06 | Neville Marriner, L.A. Chamber Orchestra music director and 'Amadeus' maestro, dies at 92  
-782759609115217920 | 35 | 49 | 2016-10-03 01:50:08 | This delivery pizza is made by robots  
-782754577468776448 | 126 | 261 | 2016-10-03 01:30:08 | Hillary Clinton lands a big Ohio endorsement: LeBron James  
-782749531532304384 | 291 | 541 | 2016-10-03 01:10:05 | Thank you, Vin Scully.  
-782744514846986240 | 32 | 38 | 2016-10-03 00:50:09 | Trump's response to tax return report: It shows I know tax laws  
-782739502452318208 | 26 | 42 | 2016-10-03 00:30:14 | Derek Carr's four TD passes help Raiders hand Ravens their first loss  
-782734438702735365 | 15 | 20 | 2016-10-03 00:10:07 | Tesla deliveries up 70% but may fall short of 2016 forecasts  
+783005799304011777 | 8 | 0 | 2016-10-03 18:08:24 | RT @katemather: Waiting for an 11 a.m. #LAPD presser about the two fatal shootings by officers this weekend in South L.A.  
+783001377475887104 | 9 | 19 | 2016-10-03 17:50:50 | Watch: Hillary Clinton campaigns in Ohio  
+782999946236661760 | 50 | 54 | 2016-10-03 17:45:09 | New York attorney general orders Trump Foundation to cease fundraising  
+782996792916996096 | 65 | 64 | 2016-10-03 17:32:37 | 'Black Monday' in Poland: women strike over proposed total abortion ban  
+782992402978054144 | 23 | 11 | 2016-10-03 17:15:10 | 17 arrested following protests after fatal El Cajon police shooting  
 end
