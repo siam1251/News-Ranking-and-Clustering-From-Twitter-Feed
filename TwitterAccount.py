@@ -8,10 +8,10 @@ import tweepy
 import Tweet
 class TwitterAccount:
 
-    __consumer_key = "C0XgZpQR09rKElSPLPJCdXyaN"
-    __consumer_secret = "vLnXuoxRboWai0ouYoLrUxQpBmkHrNhwSvSNsaFJjEgO4NKnQn"
-    __access_key = "163882382-QyqXLMzulnfklXEKPBZtoy4On0a2SZaYXK645GLX"
-    __access_secret = "tqkVjAAYwqXnDrLXNJtNNs03OUo9dbF45oSdVVyDMMZjy"
+    __consumer_key = "gddg"
+    __consumer_secret = "dgd"
+    __access_key = "df-fgd"
+    __access_secret = "dfgdfg"
     __api = ''
     __save_location = ''
     __tweet_count = 10
